@@ -1,0 +1,25 @@
+{
+  "name": "sophie_alexa",
+  "version": "0.1.0",
+  "description": "first skill alexa my app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianpugger/hello-world.git"
+  },
+  "author": "Christian Bilato (http://www.badpug.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianpugger/hello-world/issues"
+  },
+  "homepage": "https://github.com/christianpugger/hello-world#readme",
+  "dependencies": {
+    "alexaplusunity": "0.0.7"
+  }
+}
