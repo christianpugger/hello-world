@@ -21,5 +21,6 @@
   "homepage": "https://github.com/christianpugger/hello-world#readme",
   "dependencies": {
     "alexaplusunity": "0.0.7"
-  }
+  },
+  "devDependencies": {}
 }
